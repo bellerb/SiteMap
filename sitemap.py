@@ -74,7 +74,7 @@ def gather_links(index_url):
             url_count = False
             return list(checked_list), list(bad_link)
 
-#Generaye sitemap ".xml" file
+#Generate sitemap ".xml" file
 def gen_sitemap(Links):
     start_time = datetime.datetime.now()
     sitemap = open("sitemap.xml","w")
