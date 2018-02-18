@@ -1,10 +1,16 @@
 # SiteMap
 Author: Ben Bellerose
+
+
 Description: Sitemap generator for SEO
 
+
 Requirements:
+
 Python 2.7,
+
 urllib,
+
 datetime
 
 Steps:
